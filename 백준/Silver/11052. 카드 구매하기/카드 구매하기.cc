@@ -1,7 +1,7 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
-int dp[10001], card[1001];
+int card[1001];
 int main() {
 	ios::sync_with_stdio(false);
 	cin.tie(NULL);
